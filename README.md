@@ -1,5 +1,7 @@
 # V by Example
 
+[Brazilian Portuguese](README_pt-br.md) | [English](README.md)
+
 > Learn V by Examples
 
 V by Example is a direct introduction to V by using annotated program examples.
@@ -8,27 +10,60 @@ V by Example is a direct introduction to V by using annotated program examples.
 - [Contributing](#contributing)
 - [License](#license)
 
-Discord server: https://discord.gg/d3Qk65J
+Discord: https://discord.gg/d3Qk65J
 
-## Examples
+## Section 1
 
-- [Strings](examples/strings/strings.md)
-- [Variables](examples/variables/variables.md)
-- [Arrays](examples/arrays/arrays.md)
-- [Conditional Statements](examples/conditional_statements/conditional_statements.md)
-- [Match](examples/conditional_statements/match.md)
-- [Loops](examples/loops/loops.md)
-- [Functions](examples/functions/functions.md)
-- [JSON](examples/json.md)
-- [Keywords](examples/keywords.md)
-- [Operator](examples/operator.md)
-- [Primitives](examples/primitives/primitives.md)
-- [Testing](examples/testing.md)
-- [Struct](examples/struct/struct.md)
-  
+Introduction to V by presenting a few basic examples and exercises.
+
+- [Hello World](en/examples/section_1/hello_world.md)
+- [V Keywords](en/examples/section_1/keywords.md)
+- [Primitives](en/examples/section_1/primitives.md)
+- [Variables](en/examples/section_1/variables.md)
+- [Strings](en/examples/section_1/strings.md)
+- [Comment](en/examples/section_1/comment.md)
+
+## Section 2
+
+This section discusses the main operators and conditional statements in V.
+
+- [Operator](en/examples/section_2/operator.md)
+- [If-else](en/examples/section_2/if-else.md)
+- [Match](en/examples/section_2/match.md)
+- [Loops](en/examples/section_2/loops.md)
+
+## Section 3
+
+A study on functions and methods and in the most important data structures in V: arrays and struct.
+
+- [Functions](en/examples/section_3/functions.md)
+- [Arrays](en/examples/section_3/arrays.md)
+- [Struct](en/examples/section_3/struct.md)
+- [Methods](en/examples/section_3/methods.md)
+
+## Section 4
+
+In this section, we dive deeper and study the features inside the Array object. Other examples like JSON, Writing/reading files and Testing are covered.
+
+- [Array Functions](en/examples/section_4/array-functions.md)
+- [Testing](en/examples/section_4/testing.md)
+- [Files](en/examples/section_4/files.md)
+- [JSON](en/examples/section_4/json.md)
+
+## Team
+
+Current list of maintainers/authors:
+
+* [Don Alfons Nisnoni](https://github.com/donnisnoni95)
+* [Ivo-Balbaert](https://github.com/ibalbaert)
+* [Sven Patrick Meier](https://github.com/SuicideS3ason)
+* [Swastik Baranwal](https://github.com/Delta456)
+* [Vitor Oliveira](https://github.com/vbrazo)
+
 ## Contributing
 
-For contributing see [CONTRIBUTING.md](CONTRIBUTING.md)
+See our [CONTRIBUTING.md](CONTRIBUTING.md) and start contributing today. We usually elect new maintainers based on contributions.
+
 
 ## License
 

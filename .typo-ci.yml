@@ -1,6 +1,7 @@
 dictionaries:
   - en
   - en_GB
+  - pt
 
 # Files to exclude
 excluded_files:
@@ -11,3 +12,4 @@ excluded_words:
   - typoci
   - r'*'
   - r'Hello\nWorld'
+  - variadic
